@@ -1,6 +1,6 @@
 ---
 deployment:
  tasks:
- - export DEPLOYPATH=/home/user/repositories/portfolio/
+ - export DEPLOYPATH=/home3/gideojvp/repositories/portfolio/
  - /bin/cp index.html $DEPLOYPATH
  - /bin/cp style.css $DEPLOYPATH
